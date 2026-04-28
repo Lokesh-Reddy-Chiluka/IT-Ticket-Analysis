@@ -20,11 +20,10 @@ The goal of this project was to analyze 97,000+ IT support tickets to optimize s
 
 ---
 
-### Dashboard Preview
-![IT Ticket Analysis Dashboard](IT Analysis Dashboard.png)
+### 📊 Dashboard Preview
+![IT Ticket Analysis Dashboard](YOUR_IMAGE_NAME_HERE.png)
 
 *The interactive dashboard allows users to filter by Severity, Department, and Timeframe to visualize IT support health in real-time.*
-
 ---
 
 ### 📫 Connect with me:
