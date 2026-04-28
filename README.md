@@ -1,35 +1,37 @@
-# IT Support Ticket Analysis
+# Excel Project: IT Support Ticket Analytics 
 
-An end-to-end data analysis project focused on optimizing IT service desk operations. This project examines a dataset of over **97,000 support tickets** to uncover trends in resolution efficiency, SLA compliance, and agent performance.
-
----
-
-##  Key Highlights
-* **Dataset Size:** 97K+ IT support tickets analyzed.
-* **Tools Used:** Microsoft Excel (Pivot Tables, Advanced Formulas, Power Query).
-* **Focus Areas:** Trend identification, bottleneck analysis, and KPI tracking.
-
-## Analysis & Insights
-
-### 1. Operational Efficiency
-* Analyzed resolution times across various ticket categories to identify delays.
-* Utilized **Pivot Tables** to segment data by severity levels and department impact.
-
-### 2. SLA Compliance & KPIs
-* Tracked **SLA (Service Level Agreement)** adherence to ensure timely support delivery.
-* Monitored agent-specific performance metrics to highlight top performers and areas needing improvement.
-
-### 3. Actionable Outcomes
-* Identified specific bottlenecks in the ticket lifecycle.
-* Provided data-driven recommendations for ticket prioritization and resource allocation to improve customer satisfaction.
+### Business Objective
+The goal of this project was to analyze 97,000+ IT support tickets to optimize service desk operations. By identifying trends in resolution efficiency and SLA compliance, this analysis provides data-driven recommendations for resource allocation and bottleneck reduction.
 
 ---
 
-##  Project Structure
-* `Lokesh IT Ticket Analysis.zip`: Contains the raw dataset and processed Excel workbooks.
-* `README.md`: Project documentation and overview.
+### Technical Toolkit
+- **Data Processing:** Cleaned and structured large-scale ticket data using Power Query and Advanced Formulas.
+- **Analysis:** Pivot Tables, Trend Identification, and KPI Tracking.
+- **Visualization:** Interactive Excel Dashboard with Dynamic Charts.
+- **Key Metrics:** SLA Compliance Rate, Resolution Time, Ticket Volume Trends, and Agent Performance.
 
-## 🛠️ How to View
-1. Download the `.zip` file from this repository.
-2. Extract the contents and open the Excel file.
-3. Navigate through the **Dashboard** and **Pivot** sheets to explore the visualizations.
+---
+
+### Key Insights & Findings
+- **Operational Efficiency:** Identified specific ticket categories that consistently cause delays, allowing for targeted process improvements.
+- **SLA Impact:** Tracked Service Level Agreement adherence to ensure high-priority issues are resolved within established timeframes.
+- **Resource Optimization:** Mapped ticket volume spikes to specific time periods, highlighting the need for dynamic staffing during peak hours.
+
+---
+
+### Dashboard Preview
+![IT Ticket Analysis Dashboard](YOUR_IMAGE_NAME_HERE.png)
+
+*The interactive dashboard allows users to filter by Severity, Department, and Timeframe to visualize IT support health in real-time.*
+
+---
+
+### 📂 Repository Structure
+- `Lokesh IT Ticket Analysis.zip`: Contains the raw dataset and the processed Excel workbook with the dashboard.
+- `README.md`: Project documentation and executive summary.
+
+---
+
+### 📫 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/lokesh-reddy-chiluka/) | [GitHub](https://github.com/Lokesh-Reddy-Chiluka)
