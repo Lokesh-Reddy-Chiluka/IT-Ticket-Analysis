@@ -26,4 +26,4 @@ The goal of this project was to analyze 97,000+ IT support tickets to optimize s
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/lokesh-reddy-chiluka/) | [GitHub](https://github.com/Lokesh-Reddy-Chiluka)
+[LinkedIn](https://www.linkedin.com/in/lokesh-reddy-chiluka-4bb206281) | [GitHub](https://github.com/Lokesh-Reddy-Chiluka)
