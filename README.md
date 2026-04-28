@@ -21,7 +21,7 @@ The goal of this project was to analyze 97,000+ IT support tickets to optimize s
 ---
 
 ### 📊 Dashboard Preview
-![IT Ticket Analysis Dashboard](https://github.com/Lokesh-Reddy-Chiluka/IT-Ticket-Analysis/blob/main/IT%20Analysis%20Dashboard.jpg).png)
+![IT Ticket Analysis Dashboard](https://github.com/Lokesh-Reddy-Chiluka/IT-Ticket-Analysis/blob/main/IT%20Analysis%20Dashboard.jpg)
 
 ---
 
